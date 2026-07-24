@@ -1,0 +1,11 @@
+"$schema" = "node_modules/wrangler/config-schema.json"
+name = "redduck-landing"
+main = ".output/server/index.mjs"
+compatibility_date = "2025-06-25"
+compatibility_flags = [ "nodejs_compat" ]
+
+[assets]
+directory = ".output/public"
+
+[observability]
+enabled = true

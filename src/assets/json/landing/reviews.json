@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "score": 5,
+    "author": "CEO, InvariFi",
+    "text": "Their team was proactive, detail-oriented, and genuinely invested in the success of our platform.",
+    "isVerified": true
+  },
+  {
+    "id": 2,
+    "score": 5,
+    "author": "CTO, InvariFi",
+    "text": "The team at InvariFi was instrumental in helping us build a robust and scalable platform.",
+    "isVerified": true
+  },
+  {
+    "id": 3,
+    "score": 5,
+    "author": "CFO, InvariFi",
+    "text": "Their expertise in financial technology was evident from the start.",
+    "isVerified": true
+  },
+  {
+    "id": 4,
+    "score": 5,
+    "author": "COO, InvariFi",
+    "text": "They were always available to answer our questions and provide support.",
+    "isVerified": true
+  },
+  {
+    "id": 5,
+    "score": 5,
+    "author": "CMO, InvariFi",
+    "text": "The team was incredibly knowledgeable and responsive.",
+    "isVerified": true
+  },
+  {
+    "id": 6,
+    "score": 5,
+    "author": "CPO, InvariFi",
+    "text": "They helped us navigate the complexities of building a financial platform.",
+    "isVerified": true
+  },
+  {
+    "id": 7,
+    "score": 5,
+    "author": "VP of Engineering, InvariFi",
+    "text": "Their attention to detail and commitment to quality was impressive.",
+    "isVerified": true
+  },
+  {
+    "id": 8,
+    "score": 5,
+    "author": "VP of Product, InvariFi",
+    "text": "They were a pleasure to work with and made the process seamless.",
+    "isVerified": true
+  }
+]

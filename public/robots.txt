@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.woff
+Allow: /*.gif
+Allow: /*.webp
+Allow: /*.svg
+Sitemap: https://redduck.io/

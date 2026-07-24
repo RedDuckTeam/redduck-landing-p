@@ -1,0 +1,17 @@
+import type { SVGProps } from 'react';
+
+export function DuckIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg
+      viewBox="0 0 71 28"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        d="M56.3878 6.87651V0H42.5338V13.753H34.6467H20.7848H13.8618V6.87651H0V13.753H6.93091V27.4982H20.7848H34.6467H48.5085V13.753H56.3878H70.2496V6.87651H56.3878Z"
+        fill="currentColor"
+      />
+    </svg>
+  );
+}

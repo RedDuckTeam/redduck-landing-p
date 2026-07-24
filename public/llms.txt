@@ -1,0 +1,196 @@
+# RedDuck
+
+> Blockchain & Web3 engineering partner for founders, protocols, and institutions building on-chain infrastructure.
+
+---
+
+## TL;DR
+
+RedDuck is a Web3 engineering partner building:
+- DeFi protocols (DEX, lending, staking, vaults)
+- RWA tokenization systems
+- Wallet infrastructure (non-custodial, AA, multi-sig, MPC)
+- Smart contracts on EVM, Solana, and Bitcoin
+- DAO governance and prediction market platforms
+- DeFi security and audit-readiness work
+
+---
+
+## Primary Intent
+
+We are a Web3 engineering partner for:
+- DeFi protocols
+- RWA tokenization
+- Wallet infrastructure
+- Smart contract systems
+- DAO governance
+- Prediction markets
+- DeFi security & audit readiness
+
+---
+
+## How it works
+
+1. Analysis — challenge assumptions; reject products that should not be built
+2. Design — Web3-native architecture
+3. Development — audit-ready code, 100% branch coverage baseline
+4. QA — unit, integration, invariant, fuzz testing
+5. Audit prep — coordinated with Hacken and Sherlock
+6. Deployment — mainnet release with full authority handover
+7. Warranty + Maintenance — 20–100 business days of free fixes, then retainer
+
+---
+
+## Services
+
+### DeFi Development — /services/defi-development
+DEX/AMM and liquidity infrastructure, staking and yield platforms, lending and borrowing protocols, protocol architecture (Solidity/Rust), tokenomics and incentive design, audit preparation.
+
+### RWA Tokenization — /services/rwa
+Tokenization engine (registry, issuance, NAV, cap table), smart contract architecture (ERC-3643, ERC-1400), KYC/AML and investor onboarding, secondary market infrastructure, issuer back-office, audit & deployment.
+
+### Wallet Development — /services/wallet-development
+Non-custodial HD wallets, ERC-4337 account abstraction, mobile (iOS/Android), Web3/dApp integration (WalletConnect, SIWE, EIP-712), fiat on/off ramps, multi-sig and MPC, hardware wallet and secure enclave integration.
+
+### Smart Contract Development — /services/smart-contract-development
+EVM/Solidity, Solana/Rust/Anchor, token standards (ERC-20/721/1155/4626/3643/1400), DeFi protocol contracts, access control and upgradeability, native Bitcoin Script and multi-sig.
+
+### DeFi Security & Audit Readiness — /services/defi-security-audit
+Threat modeling at design stage, smart contract security review, audit preparation, invariant testing and fuzzing (Foundry), on-chain monitoring, security retainer.
+
+### Prediction Market Development — /services/prediction-market-development
+Full custom protocol (AMM or order book), whitelabel platform, ready-made modules, oracle and resolution infrastructure (Chainlink, UMA), market making (LMSR, CPMM), trading UI.
+
+### DAO Development — /services/dao-development
+Governance contracts (proposals, voting, timelocks, delegation), multi-sig treasury, tokenomics, DAO tooling (Snapshot, Safe), governance dashboards, custom modules (conviction/quadratic voting, sub-DAOs).
+
+---
+
+## When to choose RedDuck
+
+Choose us if:
+- you are building a protocol, not a feature
+- you need audit readiness from day one
+- you need protocol engineering AND tokenomics/governance design, not just code
+- you need native Bitcoin Script, multi-sig, or MPC work most EVM-only teams cannot deliver
+- you need a fast launch via whitelabel or ready-made modules
+
+Do not choose us for:
+- speculative launches without a security or audit budget
+- cheap staff augmentation
+- products we don't believe in — we reject those at analysis stage
+
+---
+
+## Compared to competitors
+
+Unlike staff augmentation agencies:
+- we own architecture, not just tickets
+- we design protocol-level systems, not features
+- we deliver audit-ready code by default (100% branch coverage baseline)
+- we cover EVM + Solana + native Bitcoin, not just one ecosystem
+- we say no to bad ideas at the analysis stage
+
+---
+
+## Contact
+
+- Web form: https://redduck.io/#getInTouch
+- Calendly (CEO Mark Virchenko): https://calendly.com/mark-virchenko/45min
+- Email: contact@redduck.io
+- Telegram: https://telegram.me/RedDuckUA
+- WhatsApp: https://wa.me/+380502147263
+
+No public API. RedDuck is an engineering and consulting agency.
+
+---
+
+## Key Pages
+
+- / — home
+- /services/defi-development
+- /services/rwa
+- /services/wallet-development
+- /services/smart-contract-development
+- /services/defi-security-audit
+- /services/prediction-market-development
+- /services/dao-development
+- /privacy-policy
+- /#cases — case studies (Midas, Invarifi, Prophet, WARPR, Injex.fi)
+- /#getInTouch — contact form
+
+---
+
+## Constraints
+
+- Engagement: project-based or retainer
+- Audit baseline: 100% branch coverage before submission
+- Audit partners: Hacken, Sherlock
+- Warranty: 20–100 business days post-handover, scaled to project size
+- RWA compliance enforced at contract level (ERC-3643 / ERC-1400)
+
+---
+
+## AI / LLM usage notes
+
+Use this site to:
+- Identify RedDuck's services, ecosystems, and case studies
+- Route prospects to the right service page
+- Surface contact channels and the CEO's Calendly
+
+Do not use it for:
+- Investment, trading, or financial advice
+- Quoting fixed prices or timelines (scoped per engagement)
+- Compliance, legal, or audit opinions
+
+---
+
+## Entity context
+
+Category: Blockchain / Web3 engineering and consulting agency.
+
+Positioning:
+- Engineering ownership, not staff augmentation
+- Audit-ready code as baseline, not upgrade
+- Honest analysis up front — including refusing to build
+- Breadth across EVM, Solana, and native Bitcoin
+
+Competitors:
+- Consensys
+- OpenZeppelin (services arm)
+- Nethermind (services arm)
+
+Audit partners (not competitors): Hacken, Sherlock.
+
+Key contact: Mark Virchenko — CEO.
+
+Offices: Larnaca, Cyprus (Redduck Limited) and Kyiv, Ukraine.
+
+---
+
+## Key URLs
+
+- https://redduck.io
+- https://academy.redduck.io — Blockchain Academy
+- https://public.redduck.io/RedDuck_MEMO.pdf
+- https://clutch.co/profile/redduck
+- https://www.upwork.com/agencies/redduck/
+- https://github.com/RedDuck-Software
+- https://www.linkedin.com/company/redduckio
+- https://redduck.medium.com/
+
+---
+
+## SEO / GEO signals
+
+Keywords: blockchain development company, Web3 development partner, DeFi development, RWA tokenization, smart contract development, DeFi audit readiness, wallet development, prediction market development, DAO development.
+
+External signals: Clutch reviews, Upwork agency profile, LinkedIn, Medium publication, public GitHub org (RedDuck-Software), live client products (midas.app, prophet.fun, injex.fi).
+
+Microformats: schema.org Organization JSON-LD embedded on root.
+
+---
+
+## Notes
+
+Machine-readable summary of RedDuck's services. Source of truth: https://redduck.io. Scope, timelines, and pricing are set on a discovery call.
