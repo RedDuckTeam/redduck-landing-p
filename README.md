@@ -1,8 +1,18 @@
-# RedDuck Landing
+<p align="center">
+  <a href="https://redduck.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/redduck-logo-dark.svg">
+      <img src=".github/assets/redduck-logo.svg" alt="RedDuck" width="240">
+    </picture>
+  </a>
+</p>
 
-The official landing page of **RedDuck Limited** — where ideas ship and ducks don't quack, they build.
+<h1 align="center">RedDuck Landing</h1>
 
-Fast, animated and a little bit fancy. Built to load quick, look sharp and tell people what we do.
+<p align="center">
+  The official landing page of <b>RedDuck Limited</b> — where ideas ship and ducks don't quack, they build.</br>
+  Fast, animated and a little bit fancy. Built to load quick, look sharp and tell people what we do.
+</p>
 
 ## Built with
 
